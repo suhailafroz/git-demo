@@ -6,3 +6,5 @@ function sample() {
 function anotherFunction() {
     console.log("Function added by Developer branch");
 }
+
+console.log("Final");
