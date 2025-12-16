@@ -8,3 +8,4 @@ function anotherFunction() {
 }
 
 console.log("END");
+console.log("TEST Remote");
